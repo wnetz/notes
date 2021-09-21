@@ -4,21 +4,28 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Daily Notes\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16777215
       }
     },
     {
       "query": "tag:#school_work ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14096665
+      }
+    },
+    {
+      "query": "path:\"Daily Notes/past\"",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 9.57264957264957,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.000000000000001,
-  "close": false
+  "scale": 1.0000000000000016,
+  "close": true
 }

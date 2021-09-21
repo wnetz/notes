@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TODO.md",
+            "file": "Daily Notes/2021-09-22.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#school",
+                "query": "tag:#payday",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 155
   },
   "right": {
     "id": "12cb215f602f1fa7",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily Notes/2021-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,19 +119,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 195
   },
   "active": "6b9eec534d1944a1",
   "lastOpenFiles": [
-    "TODO.md",
-    "school/CSE 468/Project 1 iptables firewall.md",
-    "Daily Notes/2021-09-20.md",
+    "Daily Notes/2021-09-22.md",
+    "Daily Notes/2021-09-21.md",
+    "Daily Notes/2021-09-23.md",
+    "Daily Notes/2021-09-24.md",
+    "Daily Notes/2021-09-25.md",
+    "Daily Notes/2021-09-26.md",
     "Daily Notes/2021-09-28.md",
-    "school/CSE 412/WinRDBI Assignment 1.md",
-    "Daily Notes/2021-10-04.md",
+    "Daily Notes/2021-09-29.md",
     "Daily Notes/2021-10-07.md",
-    "Daily Notes/2021-10-05.md",
-    "Daily Notes/2021-09-30.md",
-    "Daily Notes/2021-09-23.md"
+    "Daily Notes/2021-10-05.md"
   ]
 }
