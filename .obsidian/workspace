@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#school_work",
+                "query": "tag:#school",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,6 +125,7 @@
   "active": "30f4d5a4d7b02c86",
   "lastOpenFiles": [
     "school/CSE 468/Project 1 iptables firewall.md",
+    "Daily Notes/2021-09-21.md",
     "school/CSE 468/Computer Network Security Foundations.md",
     "school/CSE 468/Packet Filter Firewall.md",
     "school/CSE 468/Computer Network Foundations.md",
@@ -132,7 +133,6 @@
     "school/CSE 420/5-Pipelining.md",
     "Attachments/Structural Hazard solution.png",
     "Attachments/Pasted image 20210921144602.png",
-    "Attachments/Data Hazard.png",
-    "Attachments/Pasted image 20210921144443.png"
+    "Attachments/Data Hazard.png"
   ]
 }
