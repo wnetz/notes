@@ -1,1 +1,7 @@
-{}
+{
+  "foldHeading": true,
+  "foldIndent": true,
+  "promptDelete": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
+}
