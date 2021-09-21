@@ -88,22 +88,6 @@
             }
           },
           {
-            "id": "53bcc5d9152ad2bf",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ffb08d608e9fb4ec",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "6cb16f258358bdeb",
             "type": "leaf",
             "state": {
@@ -112,6 +96,22 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "e88214012ee19d60",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a02194ffcca1f8c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ],
