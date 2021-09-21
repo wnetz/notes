@@ -6,5 +6,7 @@
   "ignoreFiles": "",
   "includeFiles": "",
   "lookAndFeel": "classic",
-  "_collapsedSections": []
+  "_collapsedSections": [
+    "TODO.md"
+  ]
 }
