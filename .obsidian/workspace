@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d6902132e4276f24",
+        "id": "6b9eec534d1944a1",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CSE_project",
+                "query": "tag:#school",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,23 +111,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d6902132e4276f24",
+  "active": "6b9eec534d1944a1",
   "lastOpenFiles": [
+    "school/CSE 468/Project 1 iptables firewall.md",
+    "Daily Notes/2021-09-20.md",
+    "TODO.md",
+    "Daily Notes/2021-09-28.md",
+    "school/CSE 412/WinRDBI Assignment 1.md",
+    "Daily Notes/2021-10-04.md",
     "Daily Notes/2021-10-07.md",
-    "Daily Notes/2021-09-23.md",
-    "Daily Notes/2021-10-02.md",
-    "Daily Notes/2021-10-01.md",
-    "Daily Notes/2021-09-29.md",
-    "Daily Notes/2021-09-26.md",
-    "Daily Notes/2021-09-25.md",
-    "Daily Notes/2021-09-24.md",
-    "Daily Notes/2021-09-22.md",
-    "Daily Notes/2021-09-21.md"
+    "Daily Notes/2021-10-05.md",
+    "Daily Notes/2021-09-30.md",
+    "Daily Notes/2021-09-23.md"
   ]
 }
