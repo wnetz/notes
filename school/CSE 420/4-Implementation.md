@@ -45,7 +45,7 @@ sign extend keeps the sign wile also changing number to a 32 bit number for the 
 
 ## J-Type
 ![[Executing Jump Operations.png]]
-#J_Type [op, jump target address]
+#J-Type [op, jump target address]
 - J-Type is a jump instruction
 	- op is 6 bits
 	- jump target address is 26 bits

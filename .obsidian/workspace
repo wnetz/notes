@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "school/CSE 420/5-Pipelining.md",
+            "file": "school/CSE 468/Project 1 iptables firewall.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 420/5-Pipelining.md",
+                "file": "school/CSE 468/Project 1 iptables firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "30f4d5a4d7b02c86",
   "lastOpenFiles": [
-    "school/CSE 420/5-Pipelining.md",
-    "Attachments/Pasted image 20210921142348.png",
+    "school/CSE 468/Project 1 iptables firewall.md",
+    "school/CSE 468/Computer Network Security Foundations.md",
+    "school/CSE 468/Packet Filter Firewall.md",
+    "school/CSE 468/Computer Network Foundations.md",
     "Untitled.md",
-    "school/CSE 420/4-Implementation.md",
-    "TODO.md",
-    "Attachments/MIPS Machine (with Controls).png",
-    "Daily Notes/2021-09-21.md",
-    "Attachments/Pasted image 20210921120132.png",
-    "Attachments/Pasted image 20210921115324.png",
-    "school/CSE 412/WinRDBI Assignment 1.md"
+    "school/CSE 420/5-Pipelining.md",
+    "Attachments/Structural Hazard solution.png",
+    "Attachments/Pasted image 20210921144602.png",
+    "Attachments/Data Hazard.png",
+    "Attachments/Pasted image 20210921144443.png"
   ]
 }

@@ -5,3 +5,6 @@
 #Linux
 
 [[2021-09-28]]
+
+- test locally on server
+- tcpdumb
