@@ -4,6 +4,8 @@
 	- [ ] update handshake
 	- [ ] update resume
 	- [ ]  apply
+- [ ] lectures
+- [ ] book beard shave
 - [ ] [[Project 1 iptables firewall]]
 - [ ]  [[Group Project - Phase 1 Final]]
 - [ ]  [[WinRDBI Assignment 1]]

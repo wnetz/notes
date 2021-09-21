@@ -7,8 +7,11 @@
         "id": "6b9eec534d1944a1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TODO.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,9 +123,9 @@
   },
   "active": "6b9eec534d1944a1",
   "lastOpenFiles": [
+    "TODO.md",
     "school/CSE 468/Project 1 iptables firewall.md",
     "Daily Notes/2021-09-20.md",
-    "TODO.md",
     "Daily Notes/2021-09-28.md",
     "school/CSE 412/WinRDBI Assignment 1.md",
     "Daily Notes/2021-10-04.md",
