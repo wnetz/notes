@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TODO.md",
+            "file": "school/CSE 420/5-Pipelining.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "school/CSE 420/5-Pipelining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,19 +119,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 195
+    "width": 195,
+    "collapsed": true
   },
   "active": "30f4d5a4d7b02c86",
   "lastOpenFiles": [
-    "TODO.md",
-    "Daily Notes/2021-09-21.md",
+    "school/CSE 420/5-Pipelining.md",
+    "Attachments/Pasted image 20210921142348.png",
+    "Untitled.md",
     "school/CSE 420/4-Implementation.md",
+    "TODO.md",
     "Attachments/MIPS Machine (with Controls).png",
+    "Daily Notes/2021-09-21.md",
     "Attachments/Pasted image 20210921120132.png",
     "Attachments/Pasted image 20210921115324.png",
-    "school/CSE 412/WinRDBI Assignment 1.md",
-    "school/CSE 468/Project 1 iptables firewall.md",
-    "school/CSE 412/Group Project - Phase 1 Final.md",
-    "Attachments/Pasted image 20210921114544.png"
+    "school/CSE 412/WinRDBI Assignment 1.md"
   ]
 }

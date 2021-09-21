@@ -21,6 +21,7 @@
 	- op and funct are 6 bits
 	- rs, rt, rd, and shamt are 5 bits
 - perform op on rs and rt then store in rd [[register]]
+- must go though regWrite twice
 
 ## I-Type
 #I-Type [op, rs, rt, address offset]

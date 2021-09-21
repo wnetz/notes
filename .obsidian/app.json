@@ -4,5 +4,9 @@
   "promptDelete": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "spellcheckDictionary": [
+    "Pipelining",
+    "parallelise"
+  ]
 }
