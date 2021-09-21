@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "baf79753c0b45271",
+    "type": "split",
+    "children": [
+      {
+        "id": "23037c4e5e2265cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-09-20.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bc9ec99505b18a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4983d9eaf27516c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed1c9b98e3a99ef9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b39b17d00f1fc091",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "123fafa06ac7ab97",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12cb215f602f1fa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b917949bfbe6a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13896fb78180e1df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-09-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53bcc5d9152ad2bf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffb08d608e9fb4ec",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "23037c4e5e2265cd",
+  "lastOpenFiles": [
+    "2021-09-20.md",
+    "Untitled.md"
+  ]
+}
