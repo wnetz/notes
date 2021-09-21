@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#school_work ",
+      "query": "tag:#school/work",
       "color": {
         "a": 1,
         "rgb": 14096665

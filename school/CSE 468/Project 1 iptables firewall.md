@@ -1,6 +1,6 @@
 # Project 1 iptables firewall
 ## Tags
-#school_work 
+#school/work 
 #CSE_project 
 #Linux
 
