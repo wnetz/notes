@@ -5,6 +5,8 @@
 	- [ ] update resume
 	- [ ]  apply
 - [ ] lectures
+	- [ ] 420
+	- [ ] 468
 - [ ] book beard shave
 - [ ] [[Project 1 iptables firewall]]
 - [ ]  [[Group Project - Phase 1 Final]]

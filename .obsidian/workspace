@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6b9eec534d1944a1",
+        "id": "30f4d5a4d7b02c86",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "school/CSE 420/4-Implementation.md",
+            "file": "TODO.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 420/4-Implementation.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,24 +115,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 195,
-    "collapsed": true
+    "width": 195
   },
-  "active": "6b9eec534d1944a1",
+  "active": "30f4d5a4d7b02c86",
   "lastOpenFiles": [
+    "TODO.md",
+    "Daily Notes/2021-09-21.md",
     "school/CSE 420/4-Implementation.md",
+    "Attachments/MIPS Machine (with Controls).png",
+    "Attachments/Pasted image 20210921120132.png",
     "Attachments/Pasted image 20210921115324.png",
     "school/CSE 412/WinRDBI Assignment 1.md",
     "school/CSE 468/Project 1 iptables firewall.md",
     "school/CSE 412/Group Project - Phase 1 Final.md",
-    "Attachments/Pasted image 20210921114544.png",
-    "Attachments/Pasted image 20210921114320.png",
-    "Attachments/Pasted image 20210921113231.png",
-    "Attachments/Executing Load and Store.png",
-    "Attachments/Pasted image 20210921113127.png"
+    "Attachments/Pasted image 20210921114544.png"
   ]
 }
