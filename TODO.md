@@ -4,7 +4,7 @@
 	- [ ] update handshake
 	- [ ] update resume
 	- [ ]  apply
-- [ ] lectures
+- [ ] notes
 	- [ ] 420
 	- [ ] 468
 - [ ] book beard shave

@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "dad41d45a964475b",
+        "id": "a5a5fbd9cff33fd9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "school/CSE 468/Network Routing Concepts.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#IP",
+                "query": "school",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school/CSE 468/Network Routing Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,29 +109,41 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "frequencyReverse",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "922a33d0c40bcc2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "school/CSE 468/Network Routing Concepts.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dad41d45a964475b",
+  "active": "a5a5fbd9cff33fd9",
   "lastOpenFiles": [
-    "school/CSE 468/Untitled.md",
-    "school/CSE 468/Addresses.md",
-    "school/CSE 420/4-Implementation.md",
-    "Pasted image 20210921190730.png",
-    "school/CSE 468/Router.md",
-    "TODO.md",
+    "school/CSE 468/Network Routing Concepts.md",
     "school/CSE 468/Project 1 iptables firewall.md",
-    "Daily Notes/2021-09-20.md",
+    "school/CSE 468/Networking basis and protocol stack.md",
+    "Daily Notes/2021-09-21.md",
+    "Daily Notes/2021-09-22.md",
     "Daily Notes/2021-09-28.md",
-    "school/CSE 412/WinRDBI Assignment 1.md"
+    "school/CSE 420/5-Pipelining.md",
+    "school/CSE 468/Addresses.md",
+    "school/CSE 412/Group Project - Phase 1 Final.md",
+    "school/CSE 420/4-Implementation.md"
   ]
 }

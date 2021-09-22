@@ -3,7 +3,7 @@
 ![[The “new look” dataflow.png]]
 - pipelining is  parallelism
 - has a theoretical linear speed up
-- #J_Type and #I-Type  are done in decode section
+- #J-Type and #I-Type  are done in decode section
 - operates best when length of stages are balanced
 
 ## hazards
