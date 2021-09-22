@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a5a5fbd9cff33fd9",
+        "id": "b943cdff8578688d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "school/CSE 468/Network Routing Concepts.md",
+            "file": "Daily Notes/past/2021-09-20.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 468/Network Routing Concepts.md",
+                "file": "Daily Notes/past/2021-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,30 +120,87 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/CSE 468/Network Routing Concepts.md",
-                "linksCollapsed": true,
+                "file": "Daily Notes/past/2021-09-20.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "05b595e23810a96b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "066b53eae8ee4816",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/past/2021-09-20.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "286fa7fc86e77780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee56d4dd12b29968",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Daily Notes/past/2021-09-20.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.602564102564103,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.435897435897436,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.7132754626224436,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a5a5fbd9cff33fd9",
+  "active": "b943cdff8578688d",
   "lastOpenFiles": [
-    "school/CSE 468/Network Routing Concepts.md",
-    "school/CSE 468/Project 1 iptables firewall.md",
-    "school/CSE 468/Networking basis and protocol stack.md",
-    "Daily Notes/2021-09-21.md",
-    "Daily Notes/2021-09-22.md",
-    "Daily Notes/2021-09-28.md",
-    "school/CSE 420/5-Pipelining.md",
-    "school/CSE 468/Addresses.md",
-    "school/CSE 412/Group Project - Phase 1 Final.md",
-    "school/CSE 420/4-Implementation.md"
+    "Daily Notes/past/2021-09-20.md",
+    "Daily Notes/past/2021-Sep-20.md",
+    "Daily Notes/2021-Sep-21.md",
+    "Daily Notes/2021-Sep-27.md",
+    "Daily Notes/2021-Sep-24.md",
+    "Daily Notes/2021-Sep-23.md",
+    "Untitled Kanban.md",
+    "school/CSE 420/4-Implementation.md",
+    "Daily Notes/2021-Sep-20.md",
+    "Daily Notes/2021-09-22.md"
   ]
 }

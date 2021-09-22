@@ -5,6 +5,6 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachments",
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "byModifiedTimeReverse",
   "showLineNumber": true
 }

@@ -1,3 +1,5 @@
 {
-  "folder": "Daily Notes"
+  "folder": "Daily Notes",
+  "template": "Daily Notes/Daily Templet",
+  "format": "YYYY-MMM-DD"
 }

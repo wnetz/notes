@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#READ",
+      "color": {
+        "a": 1,
+        "rgb": 16449791
+      }
+    },
+    {
       "query": "path:\"Daily Notes/past\"",
       "color": {
         "a": 1,
