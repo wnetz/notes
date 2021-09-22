@@ -5,7 +5,7 @@
 - 8 bits = 1 byte
 - 32 bits = 4 bytes =  1 word
 - width of address bus determines the **32 or 16** processor 
-- MIPS memory is split into 16 segment each has 2^28 bytes
+- MIPS memory is split into 16 segment each has $2^{28}$ bytes
 
 ## Fetching Instructions
 ![[Fetching Instructions.png]]
