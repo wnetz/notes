@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7f7dbc0ce3bc03c",
+        "id": "dad41d45a964475b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "school/CSE 468/Addresses.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#school",
+                "query": "tag:#IP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 155
+    "width": 300
   },
   "right": {
     "id": "12cb215f602f1fa7",
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 468/Addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,18 +84,7 @@
             }
           },
           {
-            "id": "6cb16f258358bdeb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "e88214012ee19d60",
+            "id": "53bcc5d9152ad2bf",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -107,11 +92,22 @@
             }
           },
           {
-            "id": "9a02194ffcca1f8c",
+            "id": "ffb08d608e9fb4ec",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
+            }
+          },
+          {
+            "id": "6cb16f258358bdeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ],
@@ -119,20 +115,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 195,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c7f7dbc0ce3bc03c",
+  "active": "dad41d45a964475b",
   "lastOpenFiles": [
+    "school/CSE 468/Untitled.md",
     "school/CSE 468/Addresses.md",
-    "school/CSE 468/Networking basis and protocol stack.md",
-    "school/CSE 468/Router.md",
-    "Attachments/Pasted image 20210921173755.png",
-    "Untitled.md",
-    "Attachments/Pasted image 20210921172844.png",
-    "Router.md",
     "school/CSE 420/4-Implementation.md",
-    "school/CSE 420/5-Pipelining.md",
-    "school/CSE 468/Project 1 iptables firewall.md"
+    "Pasted image 20210921190730.png",
+    "school/CSE 468/Router.md",
+    "TODO.md",
+    "school/CSE 468/Project 1 iptables firewall.md",
+    "Daily Notes/2021-09-20.md",
+    "Daily Notes/2021-09-28.md",
+    "school/CSE 412/WinRDBI Assignment 1.md"
   ]
 }

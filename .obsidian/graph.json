@@ -1,44 +1,44 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
+  "showTags": false,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Daily Notes\"",
+      "query": "path:\"Daily Notes/past\"",
       "color": {
         "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "tag:#school/work",
-      "color": {
-        "a": 1,
-        "rgb": 14096665
+        "rgb": 9079025
       }
     },
     {
       "query": "path:\"Daily Notes/past\"",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 16757791
+      }
+    },
+    {
+      "query": "tag:#school/work",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": true,
+  "collapse-display": false,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.03595505617978,
-  "lineSizeMultiplier": 1.77921348314607,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.495726495726496,
-  "repelStrength": 9.57264957264957,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.31879439470616505,
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.6316046762907506,
+  "close": false
 }
