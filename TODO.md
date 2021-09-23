@@ -11,3 +11,4 @@
 - [ ] [[Project 1 iptables firewall]]
 - [ ]  [[Group Project - Phase 1 Final]]
 - [ ]  [[WinRDBI Assignment 1]]
+- [ ] set up kanban

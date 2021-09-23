@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/past/2021-09-20.md",
+            "file": "TODO.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/past/2021-09-20.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/past/2021-09-20.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/past/2021-09-20.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/past/2021-09-20.md",
+                "file": "TODO.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,15 +192,15 @@
   },
   "active": "b943cdff8578688d",
   "lastOpenFiles": [
+    "TODO.md",
+    "Untitled Kanban.md",
     "Daily Notes/past/2021-09-20.md",
     "Daily Notes/past/2021-Sep-20.md",
+    "Daily Notes/2021-Sep-20.md",
     "Daily Notes/2021-Sep-21.md",
     "Daily Notes/2021-Sep-27.md",
     "Daily Notes/2021-Sep-24.md",
     "Daily Notes/2021-Sep-23.md",
-    "Untitled Kanban.md",
-    "school/CSE 420/4-Implementation.md",
-    "Daily Notes/2021-Sep-20.md",
-    "Daily Notes/2021-09-22.md"
+    "school/CSE 420/4-Implementation.md"
   ]
 }
