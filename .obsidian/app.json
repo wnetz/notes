@@ -5,6 +5,9 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachments",
-  "fileSortOrder": "byModifiedTimeReverse",
-  "showLineNumber": true
+  "spellcheckDictionary": [
+    "Pipelining",
+    "parallelise",
+    "pipelining"
+  ]
 }

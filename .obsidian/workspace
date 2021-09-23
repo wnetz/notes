@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c7f7dbc0ce3bc03c",
+        "id": "b25fb1f618ff61fb",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "TODO.md"
+            "file": "school/CSE 420/5-Pipelining.md",
+            "mode": "source"
           }
         }
       }
@@ -59,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 155
+    "width": 155,
+    "collapsed": true
   },
   "right": {
     "id": "12cb215f602f1fa7",
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "school/CSE 420/5-Pipelining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +123,10 @@
     "width": 195,
     "collapsed": true
   },
-  "active": "c7f7dbc0ce3bc03c",
+  "active": "b25fb1f618ff61fb",
   "lastOpenFiles": [
+    "school/CSE 420/5-Pipelining.md",
+    "school/CSE 420/4-Implementation.md",
     "TODO.md",
     "school/CSE 468/Project 1 iptables firewall.md",
     "T Cube/T Cube.md",
@@ -130,8 +134,6 @@
     "school/CSE 468/Networking basis and protocol stack.md",
     "school/CSE 468/Router.md",
     "Attachments/Pasted image 20210921173755.png",
-    "Untitled.md",
-    "Attachments/Pasted image 20210921172844.png",
-    "Router.md"
+    "Untitled.md"
   ]
 }

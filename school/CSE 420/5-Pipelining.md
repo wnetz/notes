@@ -7,12 +7,18 @@
 - operates best when length of stages are balanced
 
 ## hazards
-- structural hazard
-	- happens when a resource is needed in multiple segments
-	- ![[Structural Hazard.png]]
-	- ![[Structural Hazard Solution.png]]
-- data hazard
-	- happens when an instruction needs data produced by an earlier instruction
-	- ![[Data Hazard.png]]
-	- ![[Data Hazard Solution.png]]
-- control hazard
+
+### structural hazard
+happens when a resource is needed in multiple segments
+![[Structural Hazard.png]]
+![[Structural Hazard Solution.png]]
+
+### data hazard
+happens when an instruction needs data produced by an earlier instruction
+![[Data Hazard.png]]
+![[Data Hazard Solution.png]]
+
+#### datapath with Forwarding
+
+### control hazard
+
