@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "school/CSE 468/Network Routing Concepts.md",
+            "file": "school/CSE 468/Firewall.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 468/Network Routing Concepts.md",
+                "file": "school/CSE 468/Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -124,15 +124,15 @@
   },
   "active": "fdf4fd7ea9903a80",
   "lastOpenFiles": [
-    "school/CSE 468/Network Routing Concepts.md",
-    "school/CSE 468/Computer Network Security Foundations.md",
-    "TODO.md",
-    "Untitled.md",
-    "school/CSE 468/Project 1 iptables firewall.md",
-    "school/CSE 468/Networking basis and protocol stack.md",
-    "school/CSE 468/Addresses.md",
-    "school/CSE 420/5-Pipelining.md",
-    "Attachments/Pasted image 20210923144522.png",
-    "Attachments/Pasted image 20210923144134.png"
+    "school/CSE 468/Firewall.md",
+    "Attachments/Pasted image 20210923154345.png",
+    "Attachments/Pasted image 20210923154308.png",
+    "Attachments/Pasted image 20210923153257.png",
+    "Attachments/Pasted image 20210923153136.png",
+    "Attachments/Pasted image 20210923153110.png",
+    "Attachments/Pasted image 20210923153021.png",
+    "Screening Router.md",
+    "^m.md",
+    "Attachments/Perimeter firewall 2.png"
   ]
 }
