@@ -19,6 +19,15 @@ happens when an instruction needs data produced by an earlier instruction
 ![[Data Hazard Solution.png]]
 
 #### datapath with Forwarding
+uses data before it is stored into memory. this solves most of the data hazards that come up
+![[Forwarding.png]]
+
+#### Load-use Data Hazards
+![[Load-use Data Hazards.png]]
 
 ### control hazard
+![[control hazard.png]]
+
+## handling hazards
+![[handling hazards.png]]
 

@@ -7,24 +7,24 @@ kanban-plugin: basic
 ## Done
 
 - [ ] contact 468 prof
+- [ ] 420 notes
 
 
 ## Today
 
-- [ ] [[Project 1 iptables firewall]] @{2021-Sep-28}
 - [ ] contact heni
 - [ ] 468 notes
-- [ ] 420 notes
 - [ ] [[Piano]]
 - [ ] book beard shave
 
 
 ## This Week
 
-- [ ] [[Group Project - Phase 1 Final]] @{2021-Sep-28}
+- [ ] [[Project 1 iptables firewall]] @{2021-09-28}
+- [ ] [[Group Project - Phase 1 Final]] @{2021-09-28}
 - [ ] update handshake
 - [ ] [[Cook Prep]]
-- [ ] [[WinRDBI Assignment 1]] @{2021-Sep-30}
+- [ ] [[WinRDBI Assignment 1]] @{2021-09-28}
 - [ ] [[Etch]]
 - [ ] better note taking
 
