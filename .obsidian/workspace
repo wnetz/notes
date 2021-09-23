@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "school/CSE 468/Addresses.md",
+            "file": "Daily Notes/2021-Sep-23.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 468/Addresses.md",
+                "file": "Daily Notes/2021-Sep-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/CSE 468/Addresses.md",
+                "file": "Daily Notes/2021-Sep-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/CSE 468/Addresses.md"
+                "file": "Daily Notes/2021-Sep-23.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "school/CSE 468/Addresses.md",
+                "file": "Daily Notes/2021-Sep-23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,6 +193,7 @@
   },
   "active": "7b0ed01ab417d0ed",
   "lastOpenFiles": [
+    "Daily Notes/2021-Sep-23.md",
     "school/CSE 468/Addresses.md",
     "school/CSE 468/Network Routing Concepts.md",
     "school/CSE 468/Networking basis and protocol stack.md",
@@ -201,7 +202,6 @@
     "Etch/Etch.md",
     "TODO.md",
     "school/CSE 412/WinRDBI Assignment 1.md",
-    "school/CSE 412/Group Project - Phase 1 Final.md",
-    "school/CSE 468/Project 1 iptables firewall.md"
+    "school/CSE 412/Group Project - Phase 1 Final.md"
   ]
 }
