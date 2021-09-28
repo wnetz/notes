@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "school/CSE 420/6-Control Hazards.md",
+            "file": "school/CSE 468/Firewall.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 420/6-Control Hazards.md",
+                "file": "school/CSE 468/Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/CSE 420/6-Control Hazards.md",
+                "file": "school/CSE 468/Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/CSE 420/6-Control Hazards.md"
+                "file": "school/CSE 468/Firewall.md"
               }
             }
           }
@@ -146,12 +146,12 @@
   },
   "active": "fdf4fd7ea9903a80",
   "lastOpenFiles": [
+    "school/CSE 468/Firewall.md",
     "school/CSE 420/6-Control Hazards.md",
     "school/CSE 420/5-Pipelining.md",
     "^m.md",
     "Untitled.md",
     "school/CSE 420/4-Implementation.md",
-    "school/CSE 468/Firewall.md",
     "Attachments/Pasted image 20210928132241.png",
     "school/CSE 412/Group Project - Phase 1 Final.md",
     "Attachments/Pasted image 20210928112555.png",
