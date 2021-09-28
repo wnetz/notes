@@ -57,3 +57,40 @@ special rules to protect the host on the perimeter net
 allows selected services
 
 ## Design
+### Multiple Bastion Host
+bastions share traffic load
+easy to manage fire wall policies
+![[Multiple bastion Host.png]]
+
+### Merge Interior and Exterior Router
+this is a more economic implementation
+while routers are easier to protect that hosts there is a single point of failure
+![[Merge Interior and Exterior Router.png]]
+
+### Merge Bastion and Exterior Router
+can be a bottle neck
+need to take extra care to protect bastion
+![[Merge Bastion and Exterior Router.png]]
+
+### Merge Bastion and Interior Router
+if bastion is compromised attackers can get to the network directly
+![[Merge Bastion and Interior Router.png]]
+
+### Multiple Interior Routers
+could decide that the fastest way to an internal system is to go through the internet
+it is also difficult to keep multiple routers correctly configured
+![[Multiple Interior Routers.png]]
+
+### Multiple Internal Networks (separate interfaces in a single router)
+can improve security
+router needs to be more powerful to handle more networks
+![[Multiple Internal Networks (separate interfaces in a single router).png]]
+
+### Multiple Internal Networks (backbone architecture)
+can improve security
+works well to share traffic
+is expensive to implement
+![[Multiple Internal Networks (backbone architecture).png]]
+
+### Multiple Exterior Routers
+![[Multiple Exterior Routers.png]]
