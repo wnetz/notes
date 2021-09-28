@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fdf4fd7ea9903a80",
+        "id": "7b0ed01ab417d0ed",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "school/CSE 468/Firewall.md",
+            "file": "school/CSE 412/Group Project - Phase 1 Final.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#school",
+                "query": "school",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 155
+    "width": 300
   },
   "right": {
     "id": "12cb215f602f1fa7",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 468/Firewall.md",
+                "file": "school/CSE 412/Group Project - Phase 1 Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,18 +88,7 @@
             }
           },
           {
-            "id": "6cb16f258358bdeb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "e88214012ee19d60",
+            "id": "53bcc5d9152ad2bf",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -107,11 +96,51 @@
             }
           },
           {
-            "id": "9a02194ffcca1f8c",
+            "id": "ffb08d608e9fb4ec",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
+            }
+          },
+          {
+            "id": "6cb16f258358bdeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequencyReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "922a33d0c40bcc2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "school/CSE 412/Group Project - Phase 1 Final.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "05b595e23810a96b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "066b53eae8ee4816",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "school/CSE 412/Group Project - Phase 1 Final.md"
+              }
             }
           },
           {
@@ -136,25 +165,65 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "286fa7fc86e77780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee56d4dd12b29968",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "school/CSE 412/Group Project - Phase 1 Final.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.602564102564103,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.435897435897436,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.7132754626224436,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 195,
+    "width": 300,
     "collapsed": true
   },
-  "active": "fdf4fd7ea9903a80",
+  "active": "7b0ed01ab417d0ed",
   "lastOpenFiles": [
-    "school/CSE 468/Firewall.md",
-    "Attachments/Pasted image 20210923154345.png",
-    "Attachments/Pasted image 20210923154308.png",
-    "Attachments/Pasted image 20210923153257.png",
-    "Attachments/Pasted image 20210923153136.png",
-    "Attachments/Pasted image 20210923153110.png",
-    "Attachments/Pasted image 20210923153021.png",
-    "Screening Router.md",
-    "^m.md",
-    "Attachments/Perimeter firewall 2.png"
+    "school/CSE 412/Group Project - Phase 1 Final.md",
+    "school/CSE 412/WinRDBI Assignment 1.md",
+    "Daily Notes/2021-Sep-23.md",
+    "school/CSE 468/Addresses.md",
+    "school/CSE 468/Network Routing Concepts.md",
+    "school/CSE 468/Networking basis and protocol stack.md",
+    "Untitled Kanban.md",
+    "Piano.md",
+    "Etch/Etch.md",
+    "TODO.md"
   ]
 }
