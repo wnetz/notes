@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "210513dc9e4df313",
-        "type": "split",
-        "children": [
-          {
-            "id": "fdf4fd7ea9903a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/CSE 412/Group Project - Phase 1 Final.md",
-                "mode": "source"
-              }
-            },
-            "group": "cfa582f244b5641c"
-          },
-          {
-            "id": "f6070f307d067be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/CSE 412/Group Project - Phase 1 Final.md",
-                "mode": "preview"
-              }
-            },
-            "group": "cfa582f244b5641c"
+        "id": "fdf4fd7ea9903a80",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "school/CSE 420/6-Control Hazards.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 412/Group Project - Phase 1 Final.md",
+                "file": "school/CSE 420/6-Control Hazards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/CSE 412/Group Project - Phase 1 Final.md",
+                "file": "school/CSE 420/6-Control Hazards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/CSE 412/Group Project - Phase 1 Final.md"
+                "file": "school/CSE 420/6-Control Hazards.md"
               }
             }
           }
@@ -166,15 +146,15 @@
   },
   "active": "fdf4fd7ea9903a80",
   "lastOpenFiles": [
-    "school/CSE 412/Group Project - Phase 1 Final.md",
+    "school/CSE 420/6-Control Hazards.md",
+    "school/CSE 420/5-Pipelining.md",
+    "^m.md",
+    "Untitled.md",
+    "school/CSE 420/4-Implementation.md",
     "school/CSE 468/Firewall.md",
+    "Attachments/Pasted image 20210928132241.png",
+    "school/CSE 412/Group Project - Phase 1 Final.md",
     "Attachments/Pasted image 20210928112555.png",
-    "Attachments/Pasted image 20210928112353.png",
-    "school/CSE 468/Project 1 iptables firewall.md",
-    "Attachments/Multiple Internal Networks.png",
-    "Attachments/Pasted image 20210928111853.png",
-    "Attachments/Pasted image 20210928111457.png",
-    "Attachments/Pasted image 20210928111318.png",
-    "Attachments/Pasted image 20210928111015.png"
+    "Attachments/Pasted image 20210928112353.png"
   ]
 }

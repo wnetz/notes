@@ -6,6 +6,8 @@ most common type
 
 ## Distributed
 only works if all of the firewalls are the same. otherwise a packet could get thorough on an alternate route
+in many distributed systems the rule setup and management is still centralized
+consistency and conflict checking are the main challenges
 ![[Distributed firewall.png]]
 
 ## Micro-Segmentation
@@ -93,4 +95,10 @@ is expensive to implement
 ![[Multiple Internal Networks (backbone architecture).png]]
 
 ### Multiple Exterior Routers
+can make policies on routers simpler, and specialist to users on each net
 ![[Multiple Exterior Routers.png]]
+
+### Multiple Exterior Routers -Multiple Firewalls
+extra security
+high implementation cost
+![[Multiple Exterior Routers -Multiple Firewalls.png]]
