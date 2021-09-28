@@ -113,6 +113,28 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "a183abdbeb7c39b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "school/CSE 468/Firewall.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa979de38f6867ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "school/CSE 468/Firewall.md"
+              }
+            }
           }
         ],
         "currentTab": 2
