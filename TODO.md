@@ -6,39 +6,39 @@ kanban-plugin: basic
 
 ## Done
 
-- [ ] contact 468 prof
-- [ ] 420 notes
 
 
 ## Today
 
-- [ ] contact heni
-- [ ] 468 notes
 - [ ] [[Piano]]
 - [ ] book beard shave
+- [ ] contact heni
 
 
 ## This Week
 
-- [ ] [[Project 1 iptables firewall]] @{2021-09-28}
-- [ ] [[Group Project - Phase 1 Final]] @{2021-09-28}
-- [ ] update handshake
-- [ ] [[Cook Prep]]
-- [ ] [[WinRDBI Assignment 1]] @{2021-09-28}
-- [ ] [[Etch]]
-- [ ] better note taking
+- [ ] 420 notes
+- [ ] 468 notes
+- [ ] 468 home work @{2021-Nov-05}
+- [ ] 412 part 2
+- [ ] 420 quiz prep
 
 
 ## This Month
 
 - [ ] update resume
 - [ ] Mohela
-- [ ] [[Piano Project]]
 - [ ] Update Resume
 - [ ] apply to jobs
+- [ ] update handshake
+- [ ] better note taking
+- [ ] 468 lab 2
 
 
 ## ToDo
 
+- [ ] [[Piano Project]]
+- [ ] [[Etch]]
+- [ ] [[Cook Prep]]
 
 
