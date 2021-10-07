@@ -6,39 +6,47 @@ kanban-plugin: basic
 
 ## Done
 
+- [ ] contact heni
 
 
 ## Today
 
 - [ ] [[Piano]]
+- [ ] Mohela
+- [ ] better note taking
 - [ ] book beard shave
-- [ ] contact heni
 
 
 ## This Week
 
-- [ ] 420 notes
-- [ ] 468 notes
 - [ ] 468 home work @{2021-Nov-05}
-- [ ] 412 part 2
-- [ ] 420 quiz prep
+- [ ] 420 lab
+- [ ] 468 lab 2
+- [ ] [[6-Control Hazards]]
+- [ ] [[7-Branch Prediction]]
+- [ ] [[2-2 Network Address Translation]]
+- [ ] [[3-1 Logging Services]]
+- [ ] 420 hw
 
 
 ## This Month
 
-- [ ] update resume
-- [ ] Mohela
+- [ ] study for 412 mid term
 - [ ] Update Resume
-- [ ] apply to jobs
 - [ ] update handshake
-- [ ] better note taking
-- [ ] 468 lab 2
+- [ ] apply to jobs
+- [ ] [[Etch]]
+- [ ] [[2-3 Packet Filter Firewall]]
+- [ ] [[3-2 Protocol Analysis]]
+- [ ] [[3-3 Network Intrusion Detection]]
+- [ ] [[3-4 Snort]]
+- [ ] [[3-5 Use Hping to Deploy DoS Attacks]]
 
 
 ## ToDo
 
 - [ ] [[Piano Project]]
-- [ ] [[Etch]]
 - [ ] [[Cook Prep]]
+- [ ] [[T Cube]]
 
 
