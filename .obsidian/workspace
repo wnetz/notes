@@ -7,9 +7,10 @@
         "id": "f89b792035c7632c",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "TODO.md"
+            "file": "school/CSE 412/Group Project - Phase 1 Final.md",
+            "mode": "source"
           }
         }
       }
@@ -55,13 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 307,
-    "collapsed": true
+    "width": 307
   },
   "right": {
     "id": "12cb215f602f1fa7",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "school/CSE 412/Group Project - Phase 1 Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "school/CSE 412/Group Project - Phase 1 Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "school/CSE 412/Group Project - Phase 1 Final.md"
               }
             }
           }
@@ -146,6 +145,7 @@
   },
   "active": "f89b792035c7632c",
   "lastOpenFiles": [
+    "school/CSE 412/Group Project - Phase 1 Final.md",
     "TODO.md",
     "school/CSE 468/3- 5Use Hping to Deploy DoS Attacks.md",
     "school/CSE 468/3-2 Protocol Analysis.md",
@@ -154,7 +154,6 @@
     "school/CSE 468/Network Routing Concepts.md",
     "school/CSE 468/Network Intrusion Detection.md",
     "school/CSE 468/Protocol Analysis.md",
-    "school/CSE 468/Logging Services.md",
-    "school/CSE 468/Packet Filter Firewall.md"
+    "school/CSE 468/Logging Services.md"
   ]
 }
