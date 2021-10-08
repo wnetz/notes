@@ -7,14 +7,14 @@ kanban-plugin: basic
 ## Done
 
 - [ ] contact heni
+- [ ] book beard shave
+- [ ] Mohela
 
 
 ## Today
 
 - [ ] [[Piano]]
-- [ ] Mohela
 - [ ] better note taking
-- [ ] book beard shave
 
 
 ## This Week
