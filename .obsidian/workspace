@@ -7,9 +7,10 @@
         "id": "7b0ed01ab417d0ed",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "TODO.md"
+            "file": "Daily Notes/Daily Templet.md",
+            "mode": "source"
           }
         }
       }
@@ -75,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily Notes/Daily Templet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily Notes/Daily Templet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Daily Notes/Daily Templet.md"
               }
             }
           }
@@ -154,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily Notes/Daily Templet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,20 +188,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "7b0ed01ab417d0ed",
   "lastOpenFiles": [
+    "Daily Notes/Daily Templet.md",
+    "Daily Notes/2021-Sep-28.md",
+    "Daily Notes/2021-Sep-27.md",
+    "Daily Notes/2021-Sep-24.md",
+    "Daily Notes/2021-Sep-23.md",
+    "Daily Notes/past/2021-Sep-21.md",
+    "Daily Notes/past/2021-Sep-20.md",
     "TODO.md",
     "school/CSE 412/Group Project - Phase 1 Final.md",
-    "school/CSE 412/WinRDBI Assignment 1.md",
-    "Daily Notes/2021-Sep-23.md",
-    "school/CSE 468/Addresses.md",
-    "school/CSE 468/Network Routing Concepts.md",
-    "school/CSE 468/Networking basis and protocol stack.md",
-    "Untitled Kanban.md",
-    "Piano.md",
-    "Etch/Etch.md"
+    "school/CSE 412/WinRDBI Assignment 1.md"
   ]
 }
