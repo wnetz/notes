@@ -15,6 +15,7 @@ kanban-plugin: basic
 
 - [ ] [[Piano]]
 - [ ] better note taking
+- [ ] [[6-Control Hazards]]
 
 
 ## This Week
@@ -22,7 +23,6 @@ kanban-plugin: basic
 - [ ] 468 home work @{2021-Nov-05}
 - [ ] 420 lab
 - [ ] 468 lab 2
-- [ ] [[6-Control Hazards]]
 - [ ] [[7-Branch Prediction]]
 - [ ] [[2-2 Network Address Translation]]
 - [ ] [[3-1 Logging Services]]
