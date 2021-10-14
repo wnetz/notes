@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "6232bef40de867f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 420/7-Branch Prediction.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/CSE 420/7-Branch Prediction.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/CSE 420/7-Branch Prediction.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -145,8 +156,9 @@
     "width": 195,
     "collapsed": true
   },
-  "active": "f89b792035c7632c",
+  "active": "6232bef40de867f3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "school/CSE 420/7-Branch Prediction.md",
     "school/CSE 420/6-Control Hazards.md",
     "Attachments/Pasted image 20211014082131.png",
@@ -155,7 +167,6 @@
     "Attachments/Pasted image 20211014081707.png",
     "Attachments/Pasted image 20211014081605.png",
     "Attachments/Pasted image 20211014080949.png",
-    "Attachments/Pasted image 20211014080835.png",
-    "TODO.md"
+    "Attachments/Pasted image 20211014080835.png"
   ]
 }
