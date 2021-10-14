@@ -12,17 +12,15 @@ kanban-plugin: basic
 ## Today
 
 - [ ] [[Piano]]
-- [ ] Mohela
-- [ ] better note taking
-- [ ] book beard shave
+- [ ] 412 midterm
+- [ ] [[6-Control Hazards]]
+- [ ] 468 lab 2
 
 
 ## This Week
 
 - [ ] 468 home work @{2021-Nov-05}
 - [ ] 420 lab
-- [ ] 468 lab 2
-- [ ] [[6-Control Hazards]]
 - [ ] [[7-Branch Prediction]]
 - [ ] [[2-2 Network Address Translation]]
 - [ ] [[3-1 Logging Services]]
