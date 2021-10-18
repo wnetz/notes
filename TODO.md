@@ -6,21 +6,21 @@ kanban-plugin: basic
 
 ## Done
 
+- [ ] [[6-Control Hazards]]
 
 
 ## Today
 
 - [ ] better note taking
+- [ ] study for 412 mid term
 - [ ] 468 lab 2 @{2021-Oct-21}
-- [ ] 468 home work @{2021-Nov-05}
+- [ ] [[7-Branch Prediction]]
 
 
 ## This Week
 
+- [ ] 468 home work @{2021-Nov-05}
 - [ ] 420 lab @{2021-Oct-26}
-- [ ] study for 412 mid term
-- [ ] [[6-Control Hazards]]
-- [ ] [[7-Branch Prediction]]
 - [ ] [[2-2 Network Address Translation]]
 - [ ] [[2-3 Packet Filter Firewall]]
 - [ ] [[3-1 Logging Services]]

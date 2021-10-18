@@ -12,6 +12,17 @@
             "file": "TODO.md"
           }
         }
+      },
+      {
+        "id": "c9b2988e9851f427",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -75,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -154,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TODO.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,8 +200,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7b0ed01ab417d0ed",
+  "active": "c9b2988e9851f427",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "TODO.md",
     "Daily Notes/Daily Templet.md",
     "Daily Notes/2021-Sep-28.md",
@@ -199,7 +211,6 @@
     "Daily Notes/2021-Sep-23.md",
     "Daily Notes/past/2021-Sep-21.md",
     "Daily Notes/past/2021-Sep-20.md",
-    "school/CSE 412/Group Project - Phase 1 Final.md",
-    "school/CSE 412/WinRDBI Assignment 1.md"
+    "school/CSE 412/Group Project - Phase 1 Final.md"
   ]
 }
