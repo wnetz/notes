@@ -9,12 +9,6 @@ lane-width: 200
 
 
 
-## Sunday
-
-**Complete**
-- [ ] 468 lab 2 @{2021-Oct-21}
-
-
 ## Monday
 
 - [ ] 420 lab @{2021-Oct-26}
@@ -61,6 +55,11 @@ lane-width: 200
 - [ ] 420 lab @{2021-Oct-26}
 
 
+## Sunday
+
+**Complete**
+
+
 ## Next Week
 
 - [ ] 420 lab @{2021-Oct-26}
@@ -89,3 +88,8 @@ lane-width: 200
 - [ ] [[Piano]]
 
 
+***
+
+## Archive
+
+- [ ] 468 lab 2 @{2021-Oct-21}
