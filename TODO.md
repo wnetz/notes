@@ -7,12 +7,12 @@ kanban-plugin: basic
 ## Done
 
 - [ ] [[6-Control Hazards]]
+- [ ] better note taking
+- [ ] study for 412 mid term
 
 
 ## Today
 
-- [ ] better note taking
-- [ ] study for 412 mid term
 - [ ] 468 lab 2 @{2021-Oct-21}
 - [ ] [[7-Branch Prediction]]
 
