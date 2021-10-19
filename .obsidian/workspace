@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "aae6459328123566",
+        "id": "6232bef40de867f3",
         "type": "leaf",
         "state": {
           "type": "kanban",
           "state": {
             "file": "TODO.md"
+          }
+        }
+      },
+      {
+        "id": "8fae20d07837c5a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
           }
         }
       }
@@ -38,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "school",
+                "query": "tag:#Transport_Layer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 307
   },
   "right": {
     "id": "12cb215f602f1fa7",
@@ -76,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +98,18 @@
             }
           },
           {
-            "id": "53bcc5d9152ad2bf",
+            "id": "6cb16f258358bdeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e88214012ee19d60",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -96,7 +117,7 @@
             }
           },
           {
-            "id": "ffb08d608e9fb4ec",
+            "id": "9a02194ffcca1f8c",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -104,104 +125,46 @@
             }
           },
           {
-            "id": "6cb16f258358bdeb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequencyReverse",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "922a33d0c40bcc2a",
+            "id": "a183abdbeb7c39b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa979de38f6867ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "05b595e23810a96b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "066b53eae8ee4816",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "TODO.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "286fa7fc86e77780",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ee56d4dd12b29968",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "TODO.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.602564102564103,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.435897435897436,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.7132754626224436,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 195,
     "collapsed": true
   },
-  "active": "aae6459328123566",
+  "active": "8fae20d07837c5a8",
   "lastOpenFiles": [
-    "TODO.md",
     "conflict-files-obsidian-git.md",
-    "Daily Notes/Daily Templet.md",
-    "Daily Notes/2021-Sep-28.md",
-    "Daily Notes/2021-Sep-27.md",
-    "Daily Notes/2021-Sep-24.md",
-    "Daily Notes/2021-Sep-23.md",
-    "Daily Notes/past/2021-Sep-21.md",
-    "Daily Notes/past/2021-Sep-20.md",
-    "school/CSE 412/Group Project - Phase 1 Final.md"
+    "TODO.md",
+    "school/CSE 420/7-Branch Prediction.md",
+    "school/CSE 420/6-Control Hazards.md",
+    "Attachments/Pasted image 20211014082131.png",
+    "Attachments/In branch.png",
+    "Attachments/Pasted image 20211014081828.png",
+    "Attachments/Pasted image 20211014081707.png",
+    "Attachments/Pasted image 20211014081605.png",
+    "Attachments/Pasted image 20211014080949.png"
   ]
 }
