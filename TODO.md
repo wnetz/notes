@@ -9,39 +9,17 @@ lane-width: 200
 
 
 
-## Monday
-
-
-
-## Tuesday
-
-- [ ] [[7-Branch Prediction]]
-- [ ] [[3-3 Network Intrusion Detection]]
-- [ ] study for 468 quiz @{2021-Oct-19}
-- [ ] 420 lab @{2021-Oct-26}
-- [ ] 468 lab 2 @{2021-Oct-21}
-
-
-## Wednesday
-
-- [ ] 468 lab 2 @{2021-Oct-21}
-- [ ] 420 lab @{2021-Oct-26}
-- [ ] [[2-2 Network Address Translation]]
-- [ ] [[2-3 Packet Filter Firewall]]
-- [ ] 468 home work @{2021-Nov-05}
-
-
 ## Thursday
 
-- [ ] [[3-1 Logging Services]]
+- [ ] [[2-2 Network Address Translation]]
 - [ ] 468 lab 2 @{2021-Oct-21}
 - [ ] 468 home work @{2021-Nov-05}
 
 
 ## Friday
 
-- [ ] [[3-2 Protocol Analysis]]
-- [ ] [[3-4 Snort]]
+- [ ] [[2-3 Packet Filter Firewall]]
+- [ ] [[3-1 Logging Services]]
 - [ ] 420 lab @{2021-Oct-26}
 - [ ] 468 home work @{2021-Nov-05}
 
@@ -50,11 +28,24 @@ lane-width: 200
 
 - [ ] [[Etch]]
 - [ ] 420 lab @{2021-Oct-26}
+- [ ] [[3-2 Protocol Analysis]]
 
 
 ## Sunday
 
 **Complete**
+
+
+## Monday
+
+
+
+## Tuesday
+
+
+
+## Wednesday
+
 
 
 ## Next Week
@@ -65,7 +56,10 @@ lane-width: 200
 - [ ] Update Resume
 - [ ] update handshake
 - [ ] apply to jobs
+- [ ] [[3-3 Network Intrusion Detection]]
+- [ ] [[3-4 Snort]]
 - [ ] [[3-5 Use Hping to Deploy DoS Attacks]]
+- [ ] [[7-Branch Prediction]]
 - [ ] 420 hw
 - [ ] pool 3d model
 
