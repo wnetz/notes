@@ -11,20 +11,17 @@ lane-width: 200
 
 ## Monday
 
-- [ ] 420 lab @{2021-Oct-26}
-- [ ] 468 lab 2 @{2021-Oct-21}
 
 
 ## Tuesday
 
-- [ ] [[2-2 Network Address Translation]]
-- [ ] 468 lab 2 @{2021-Oct-21}
 
 
 ## Wednesday
 
 - [ ] [[Etch]]
 - [ ] 468 home work @{2021-Nov-05}
+- [ ] [[2-2 Network Address Translation]]
 - [ ] [[2-3 Packet Filter Firewall]]
 
 
@@ -88,6 +85,8 @@ lane-width: 200
 
 ## Archive
 
+- [ ] 420 lab @{2021-Oct-26}
+- [ ] 468 lab 2 @{2021-Oct-21}
 - [ ] 420 lab @{2021-Oct-26}
 - [ ] 468 home work @{2021-Nov-05}
 - [ ] 468 lab 2 @{2021-Oct-21}
