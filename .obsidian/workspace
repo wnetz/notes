@@ -7,9 +7,10 @@
         "id": "aae6459328123566",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "TODO.md"
+            "file": "school/CSE 420/8-Register Scoreboarding.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "school/CSE 420/8-Register Scoreboarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "school/CSE 420/8-Register Scoreboarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "school/CSE 420/8-Register Scoreboarding.md"
               }
             }
           }
@@ -155,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TODO.md",
+                "file": "school/CSE 420/8-Register Scoreboarding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,15 +194,15 @@
   },
   "active": "aae6459328123566",
   "lastOpenFiles": [
+    "school/CSE 420/8-Register Scoreboarding.md",
+    "Attachments/Register Scoreboarding pipeline.png",
+    "Attachments/WAW.png",
+    "Attachments/WAR.png",
+    "Attachments/RAW.png",
+    "school/CSE 420/7-Branch Prediction.md",
+    "school/CSE 420/5-Pipelining.md",
+    "school/CSE 420/6-Control Hazards.md",
     "TODO.md",
-    "conflict-files-obsidian-git.md",
-    "Daily Notes/Daily Templet.md",
-    "Daily Notes/2021-Sep-28.md",
-    "Daily Notes/2021-Sep-27.md",
-    "Daily Notes/2021-Sep-24.md",
-    "Daily Notes/2021-Sep-23.md",
-    "Daily Notes/past/2021-Sep-21.md",
-    "Daily Notes/past/2021-Sep-20.md",
-    "school/CSE 412/Group Project - Phase 1 Final.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

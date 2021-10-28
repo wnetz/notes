@@ -9,12 +9,6 @@ lane-width: 200
 
 
 
-## Monday
-
-- [ ] 420 lab @{2021-Oct-26}
-- [ ] 468 lab 2 @{2021-Oct-21}
-
-
 ## Tuesday
 
 - [ ] [[2-2 Network Address Translation]]
@@ -58,6 +52,10 @@ lane-width: 200
 - [x] [[Etch]]
 - [x] 468 home work @{2021-Nov-05}
 - [x] [[3-4 Snort]]
+
+
+## Monday
+
 
 
 ## Next Week
