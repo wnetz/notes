@@ -7,9 +7,10 @@
         "id": "aae6459328123566",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "TODO.md"
+            "file": "school/CSE 468/2-3 Packet Filter Firewall.md",
+            "mode": "source"
           }
         }
       }
@@ -75,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "school/CSE 468/2-3 Packet Filter Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +120,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "school/CSE 468/2-3 Packet Filter Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "29ac457217c1bd4b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -138,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "school/CSE 468/2-3 Packet Filter Firewall.md"
               }
             }
           }
@@ -154,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TODO.md",
+                "file": "school/CSE 468/2-3 Packet Filter Firewall.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,15 +201,15 @@
   },
   "active": "aae6459328123566",
   "lastOpenFiles": [
-    "TODO.md",
     "school/CSE 468/2-3 Packet Filter Firewall.md",
+    "school/CSE 468/3-1 Logging Services.md",
+    "Daily Notes/2021-Oct-28.md",
     "school/CSE 468/2-2 Network Address Translation.md",
+    "TODO.md",
     "school/CSE 468/2-1 Network Firewall.md",
     "school/CSE 468/1-3 Network Routing Concepts.md",
     "school/CSE 468/1-2 Addresses.md",
     "school/CSE 420/6-Control Hazards.md",
-    "school/CSE 468/3-5 Use Hping to Deploy DoS Attacks.md",
-    "school/CSE 468/3-4 Snort.md",
-    "school/CSE 468/3-3 Network Intrusion Detection.md"
+    "school/CSE 468/3-5 Use Hping to Deploy DoS Attacks.md"
   ]
 }
