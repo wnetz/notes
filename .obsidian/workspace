@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "school/CSE 468/2-1 Network Firewall.md",
-            "mode": "preview"
+            "file": "school/CSE 468/3-4 Snort.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 468/2-1 Network Firewall.md",
+                "file": "school/CSE 468/3-4 Snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/CSE 468/2-1 Network Firewall.md",
+                "file": "school/CSE 468/3-4 Snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/CSE 468/2-1 Network Firewall.md"
+                "file": "school/CSE 468/3-4 Snort.md"
               }
             }
           }
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "school/CSE 468/2-1 Network Firewall.md",
+                "file": "school/CSE 468/3-4 Snort.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,15 +201,15 @@
   },
   "active": "aae6459328123566",
   "lastOpenFiles": [
-    "school/CSE 468/2-1 Network Firewall.md",
+    "school/CSE 468/3-4 Snort.md",
+    "school/CSE 468/3-3 Network Intrusion Detection.md",
+    "TODO.md",
     "school/CSE 468/3-2 Protocol Analysis.md",
     "school/CSE 468/3-1 Logging Services.md",
-    "school/CSE 468/2-3 Packet Filter Firewall.md",
-    "Daily Notes/2021-Oct-28.md",
     "school/CSE 468/2-2 Network Address Translation.md",
-    "TODO.md",
-    "school/CSE 468/1-3 Network Routing Concepts.md",
-    "school/CSE 468/1-2 Addresses.md",
-    "school/CSE 420/6-Control Hazards.md"
+    "school/CSE 468/2-3 Packet Filter Firewall.md",
+    "school/CSE 468/2-1 Network Firewall.md",
+    "Daily Notes/2021-Oct-28.md",
+    "school/CSE 468/1-3 Network Routing Concepts.md"
   ]
 }

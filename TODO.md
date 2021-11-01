@@ -1,7 +1,6 @@
 ---
 
 kanban-plugin: basic
-lane-width: 200
 
 ---
 
@@ -9,69 +8,71 @@ lane-width: 200
 
 
 
+## Monday
+
+- [ ] 420 hw
+- [ ] CSE 420 quiz
+- [ ] 468 home work @{2021-Nov-05}
+
+
+## Tuesday
+
+- [ ] CSE 468 lab 3
+- [ ] 468 home work @{2021-Nov-05}
+- [ ] Update Resume
+- [ ] update handshake
+
+
+## Wednesday
+
+- [ ] [[Etch]]
+- [ ] CSE 412 hw3
+- [ ] 468 home work @{2021-Nov-05}
+- [ ] CSE 468 assignment  2
+- [ ] apply to jobs
+
+
 ## Thursday
 
+- [ ] CSE 412 hw3
+- [ ] CSE 468 lab 3
 - [ ] 468 home work @{2021-Nov-05}
-- [ ] [[3-1 Logging Services]]
-- [ ] [[2-3 Packet Filter Firewall]]
 
 
 ## Friday
 
 - [ ] [[Etch]]
+- [ ] CSE 412 hw3
+- [ ] CSE 468 lab 3
 - [ ] 468 home work @{2021-Nov-05}
-- [ ] [[3-2 Protocol Analysis]]
-- [ ] Update Resume
-- [ ] update handshake
-- [ ] apply to jobs
 
 
 ## Saturday
 
 - [ ] [[Etch]]
-- [ ] 468 home work @{2021-Nov-05}
-- [ ] pool 3d model
-- [ ] [[3-3 Network Intrusion Detection]]
 
 
 ## Sunday
 
 **Complete**
 - [x] [[Etch]]
-- [x] 468 home work @{2021-Nov-05}
-- [x] [[3-4 Snort]]
-
-
-## Monday
-
-
-
-## Monday
-
-
-
-## Tuesday
-
-
-
-## Wednesday
-
+- [x] CSE 468 assignment  2
 
 
 ## Next Week
 
-- [ ] 468 home work @{2021-Nov-05}
 - [ ] [[Etch]]
-- [ ] [[3-5 Use Hping to Deploy DoS Attacks]]
-- [ ] [[7-Branch Prediction]]
-- [ ] 420 hw
+- [ ] CSE 412 hw3
+- [ ] CSE part 3
+- [ ] CSE 468 assignment  2
+- [ ] CSE 468 lab 3
 
 
 ## This Month
 
-- [ ] 468 home work @{2021-Nov-05}
 - [ ] [[Etch]]
 - [ ] apply to jobs
+- [ ] pool 3d model
 
 
 ## ToDo
@@ -94,3 +95,9 @@ lane-width: 200
 - [ ] 468 home work @{2021-Nov-05}
 - [ ] 468 lab 2 @{2021-Oct-21}
 - [ ] 468 home work @{2021-Nov-05}
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic","lane-width":200}
+```
+%%
