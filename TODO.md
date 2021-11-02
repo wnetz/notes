@@ -8,19 +8,10 @@ kanban-plugin: basic
 
 
 
-## Monday
-
-- [ ] 420 hw
-- [ ] CSE 420 quiz
-- [ ] 468 home work @{2021-Nov-05}
-
-
 ## Tuesday
 
 - [ ] CSE 468 lab 3
 - [ ] 468 home work @{2021-Nov-05}
-- [ ] Update Resume
-- [ ] update handshake
 
 
 ## Wednesday
@@ -59,6 +50,10 @@ kanban-plugin: basic
 - [x] CSE 468 assignment  2
 
 
+## Monday
+
+
+
 ## Next Week
 
 - [ ] [[Etch]]
@@ -87,6 +82,9 @@ kanban-plugin: basic
 
 ## Archive
 
+- [ ] 420 hw
+- [ ] CSE 420 quiz
+- [ ] 468 home work @{2021-Nov-05}
 - [ ] [[Etch]]
 - [ ] [[2-3 Packet Filter Firewall]]
 - [ ] 420 lab @{2021-Oct-26}
