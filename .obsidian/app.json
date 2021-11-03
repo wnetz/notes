@@ -10,6 +10,9 @@
     "parallelise",
     "pipelining",
     "Subnet",
-    "Scoreboarding"
+    "Scoreboarding",
+    "tracerout",
+    "icmp",
+    "traceroute"
   ]
 }
