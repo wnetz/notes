@@ -44,4 +44,8 @@ not stealthy because connection can be logged
 can test firewall to see what types of connections it will let through
 ### tcp window scan
 much the same as an ack scan
-### ftp
+### ftp bounce scan
+bounce a tcp scan off of an ftp server, hiding the originator
+### tcp idle scan
+uses a zombie to determine weather a port is open
+![[tcp idle scan.png]]

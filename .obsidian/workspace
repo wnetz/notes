@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "school/CSE 468/4-2 network mapping and port scanning.md",
+            "file": "school/CSE 468/4-7 DoS Attacks.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 468/4-2 network mapping and port scanning.md",
+                "file": "school/CSE 468/4-7 DoS Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/CSE 468/4-2 network mapping and port scanning.md",
+                "file": "school/CSE 468/4-7 DoS Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/CSE 468/4-2 network mapping and port scanning.md"
+                "file": "school/CSE 468/4-7 DoS Attacks.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "school/CSE 468/4-2 network mapping and port scanning.md",
+                "file": "school/CSE 468/4-7 DoS Attacks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,15 +193,15 @@
   },
   "active": "673ef877e5640a34",
   "lastOpenFiles": [
+    "school/CSE 468/4-7 DoS Attacks.md",
     "school/CSE 468/4-2 network mapping and port scanning.md",
+    "Attachments/tcp idle scan.png",
     "school/CSE 468/4-1 attack model and security testing.md",
     "TODO.md",
     "school/CSE 468/2-3 Packet Filter Firewall.md",
     "school/CSE 468/2-2 Network Address Translation.md",
     "school/CSE 468/2-1 Network Firewall.md",
     "school/CSE 468/1-3 Network Routing Concepts.md",
-    "school/CSE 468/1-2 Addresses.md",
-    "school/CSE 420/6-Control Hazards.md",
-    "school/CSE 468/3-5 Use Hping to Deploy DoS Attacks.md"
+    "school/CSE 468/1-2 Addresses.md"
   ]
 }
