@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "baf79753c0b45271",
+    "id": "e45163d1f63dd300",
     "type": "split",
     "children": [
       {
-        "id": "aae6459328123566",
+        "id": "673ef877e5640a34",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "12cb215f602f1fa7",
@@ -126,17 +125,9 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "29ac457217c1bd4b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "05b595e23810a96b",
@@ -200,17 +191,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aae6459328123566",
+  "active": "673ef877e5640a34",
   "lastOpenFiles": [
     "school/CSE 468/4-2 network mapping and port scanning.md",
     "school/CSE 468/4-1 attack model and security testing.md",
-    "school/CSE 468/3-1 Logging Services.md",
+    "TODO.md",
     "school/CSE 468/2-3 Packet Filter Firewall.md",
     "school/CSE 468/2-2 Network Address Translation.md",
-    "school/CSE 468/3-2 Protocol Analysis.md",
-    "school/CSE 468/3-3 Network Intrusion Detection.md",
-    "school/CSE 468/3-4 Snort.md",
-    "school/CSE 468/3-5 Use Hping to Deploy DoS Attacks.md",
-    "school/CSE 468/4-8 Pentest.md"
+    "school/CSE 468/2-1 Network Firewall.md",
+    "school/CSE 468/1-3 Network Routing Concepts.md",
+    "school/CSE 468/1-2 Addresses.md",
+    "school/CSE 420/6-Control Hazards.md",
+    "school/CSE 468/3-5 Use Hping to Deploy DoS Attacks.md"
   ]
 }
