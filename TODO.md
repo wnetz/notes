@@ -4,78 +4,17 @@ kanban-plugin: basic
 
 ---
 
-## Done
+## Games
+
+- [ ] Coffee Talk
+- [ ] Warcraft III
+- [ ] Witcher
+- [ ] Psychonauts 2
+- [ ] when the past was around
 
 
+## projects
 
-## Tuesday
-
-- [ ] CSE 468 lab 3
-- [ ] 468 home work @{2021-Nov-05}
-
-
-## Wednesday
-
-- [ ] [[Etch]]
-- [ ] CSE 412 hw3
-- [ ] 468 home work @{2021-Nov-05}
-- [ ] CSE 468 assignment  2
-- [ ] apply to jobs
-
-
-## Thursday
-
-- [ ] CSE 412 hw3
-- [ ] CSE 468 lab 3
-- [ ] 468 home work @{2021-Nov-05}
-
-
-## Friday
-
-- [ ] [[Etch]]
-- [ ] CSE 412 hw3
-- [ ] CSE 468 lab 3
-- [ ] 468 home work @{2021-Nov-05}
-
-
-## Saturday
-
-- [ ] [[Etch]]
-
-
-## Sunday
-
-**Complete**
-- [x] [[Etch]]
-- [x] CSE 468 assignment  2
-
-
-## Monday
-
-
-
-## Next Week
-
-- [ ] [[Etch]]
-- [ ] CSE 412 hw3
-- [ ] CSE part 3
-- [ ] CSE 468 assignment  2
-- [ ] CSE 468 lab 3
-
-
-## This Month
-
-- [ ] [[Etch]]
-- [ ] apply to jobs
-- [ ] pool 3d model
-
-
-## ToDo
-
-- [ ] [[Piano Project]]
-- [ ] [[Cook Prep]]
-- [ ] [[T Cube]]
-- [ ] [[Piano]]
 
 
 ***

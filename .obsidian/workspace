@@ -1,16 +1,15 @@
 {
   "main": {
-    "id": "e45163d1f63dd300",
+    "id": "baf79753c0b45271",
     "type": "split",
     "children": [
       {
-        "id": "673ef877e5640a34",
+        "id": "185e7ddd758f4073",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "school/CSE 468/4-7 DoS Attacks.md",
-            "mode": "source"
+            "file": "TODO.md"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/CSE 468/4-7 DoS Attacks.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,14 +119,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/CSE 468/4-7 DoS Attacks.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "29ac457217c1bd4b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "05b595e23810a96b",
@@ -139,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/CSE 468/4-7 DoS Attacks.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -155,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "school/CSE 468/4-7 DoS Attacks.md",
+                "file": "TODO.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,17 +198,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "673ef877e5640a34",
+  "active": "185e7ddd758f4073",
   "lastOpenFiles": [
-    "school/CSE 468/4-7 DoS Attacks.md",
-    "school/CSE 468/4-2 network mapping and port scanning.md",
-    "Attachments/tcp idle scan.png",
-    "school/CSE 468/4-1 attack model and security testing.md",
     "TODO.md",
+    "Untitled.md",
+    "games.md",
+    "Cooking/Cook Prep.md",
+    "school/CSE 468/4-2 network mapping and port scanning.md",
+    "school/CSE 468/4-1 attack model and security testing.md",
+    "school/CSE 468/3-1 Logging Services.md",
     "school/CSE 468/2-3 Packet Filter Firewall.md",
     "school/CSE 468/2-2 Network Address Translation.md",
-    "school/CSE 468/2-1 Network Firewall.md",
-    "school/CSE 468/1-3 Network Routing Concepts.md",
-    "school/CSE 468/1-2 Addresses.md"
+    "school/CSE 468/3-2 Protocol Analysis.md"
   ]
 }
