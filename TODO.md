@@ -10,11 +10,15 @@ kanban-plugin: basic
 - [ ] Warcraft III
 - [ ] Witcher
 - [ ] Psychonauts 2
+- [ ] neo the world ends with you
 - [ ] when the past was around
 
 
 ## projects
 
+- [ ] t cube
+- [ ] piano
+- [ ] led cube
 
 
 ***
