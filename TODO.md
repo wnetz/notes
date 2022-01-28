@@ -19,6 +19,7 @@ kanban-plugin: basic
 - [ ] t cube
 - [ ] piano
 - [ ] led cube
+- [ ] magic mirror
 
 
 ***
