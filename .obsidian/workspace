@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "TODO.md"
+            "file": "Magic mirror/ToDo.md"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Magic mirror/ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Magic mirror/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Magic mirror/ToDo.md"
               }
             }
           }
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TODO.md",
+                "file": "Magic mirror/ToDo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,15 +200,15 @@
   },
   "active": "185e7ddd758f4073",
   "lastOpenFiles": [
-    "TODO.md",
+    "Magic mirror/ToDo.md",
     "Untitled.md",
+    "TODO.md",
     "games.md",
     "Cooking/Cook Prep.md",
     "school/CSE 468/4-2 network mapping and port scanning.md",
     "school/CSE 468/4-1 attack model and security testing.md",
     "school/CSE 468/3-1 Logging Services.md",
     "school/CSE 468/2-3 Packet Filter Firewall.md",
-    "school/CSE 468/2-2 Network Address Translation.md",
-    "school/CSE 468/3-2 Protocol Analysis.md"
+    "school/CSE 468/2-2 Network Address Translation.md"
   ]
 }
