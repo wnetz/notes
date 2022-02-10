@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "Magic mirror/ToDo.md"
+            "file": "TODO.md"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic mirror/ToDo.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic mirror/ToDo.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic mirror/ToDo.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Magic mirror/ToDo.md",
+                "file": "TODO.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,9 +200,9 @@
   },
   "active": "185e7ddd758f4073",
   "lastOpenFiles": [
+    "TODO.md",
     "Magic mirror/ToDo.md",
     "Untitled.md",
-    "TODO.md",
     "games.md",
     "Cooking/Cook Prep.md",
     "school/CSE 468/4-2 network mapping and port scanning.md",
