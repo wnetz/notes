@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "185e7ddd758f4073",
+        "id": "08de82bfd7ac1933",
         "type": "leaf",
         "state": {
           "type": "kanban",
           "state": {
-            "file": "TODO.md"
+            "file": "Piano Project/piano todo.md"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Piano Project/piano todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Piano Project/piano todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Piano Project/piano todo.md"
               }
             }
           }
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TODO.md",
+                "file": "Piano Project/piano todo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,17 +198,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "185e7ddd758f4073",
+  "active": "08de82bfd7ac1933",
   "lastOpenFiles": [
-    "TODO.md",
+    "Piano Project/piano todo.md",
     "Magic mirror/ToDo.md",
+    "TODO.md",
+    "Piano Project/Piano Project.md",
     "Untitled.md",
     "games.md",
     "Cooking/Cook Prep.md",
     "school/CSE 468/4-2 network mapping and port scanning.md",
     "school/CSE 468/4-1 attack model and security testing.md",
-    "school/CSE 468/3-1 Logging Services.md",
-    "school/CSE 468/2-3 Packet Filter Firewall.md",
-    "school/CSE 468/2-2 Network Address Translation.md"
+    "school/CSE 468/3-1 Logging Services.md"
   ]
 }
