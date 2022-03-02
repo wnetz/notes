@@ -22,6 +22,21 @@ kanban-plugin: basic
 - [ ] magic mirror
 
 
+## m3
+
+- [ ] field access
+- [ ] deactivate
+- [ ] activate
+- [ ] managers
+- [ ] approval process
+- [ ] fraud
+- [ ] overdraft
+- [ ] validation rules
+- [ ] dashboards
+- [ ] reports
+- [ ] products
+
+
 ***
 
 ## Archive

@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "Piano Project/piano todo.md"
+            "file": "TODO.md"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piano Project/piano todo.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piano Project/piano todo.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piano Project/piano todo.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Piano Project/piano todo.md",
+                "file": "TODO.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,9 +200,9 @@
   },
   "active": "08de82bfd7ac1933",
   "lastOpenFiles": [
+    "TODO.md",
     "Piano Project/piano todo.md",
     "Magic mirror/ToDo.md",
-    "TODO.md",
     "Piano Project/Piano Project.md",
     "Untitled.md",
     "games.md",
