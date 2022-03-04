@@ -4,8 +4,23 @@ kanban-plugin: basic
 
 ---
 
+## m3
+
+- [ ] deactivate
+- [ ] activate
+- [ ] approval process
+- [ ] fraud
+- [ ] validation rules
+- [ ] dashboards
+- [ ] reports
+- [ ] products
+- [ ] managers
+- [ ] field access
+
+
 ## Games
 
+- [ ] elden ring
 - [ ] Coffee Talk
 - [ ] Warcraft III
 - [ ] Witcher
@@ -20,21 +35,6 @@ kanban-plugin: basic
 - [ ] piano
 - [ ] led cube
 - [ ] magic mirror
-
-
-## m3
-
-- [ ] field access
-- [ ] deactivate
-- [ ] activate
-- [ ] managers
-- [ ] approval process
-- [ ] fraud
-- [ ] overdraft
-- [ ] validation rules
-- [ ] dashboards
-- [ ] reports
-- [ ] products
 
 
 ***
