@@ -6,13 +6,9 @@ kanban-plugin: basic
 
 ## m3
 
-- [ ] deactivate
-- [ ] activate
-- [ ] approval process
-- [ ] fraud
-- [ ] validation rules
 - [ ] dashboards
 - [ ] reports
+- [ ] fraud
 - [ ] products
 - [ ] managers
 - [ ] field access
