@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## m3
 
-- [ ] dashboards
-- [ ] reports
 - [ ] fraud
 - [ ] products
 - [ ] managers
