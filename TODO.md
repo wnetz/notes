@@ -21,6 +21,8 @@ kanban-plugin: basic
 - [ ] Psychonauts 2
 - [ ] neo the world ends with you
 - [ ] when the past was around
+- [ ] sifu
+- [ ] neir automota
 
 
 ## projects
