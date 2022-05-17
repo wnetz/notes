@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Full Stack Development/over view.md",
+            "file": "Python.md",
             "mode": "source"
           }
         }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "school",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack Development/over view.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack Development/over view.md",
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack Development/over view.md"
+                "file": "Python.md"
               }
             }
           }
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Full Stack Development/over view.md",
+                "file": "Python.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -196,17 +196,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 324
   },
   "active": "08de82bfd7ac1933",
   "lastOpenFiles": [
+    "Python.md",
     "Full Stack Development/over view.md",
+    "Piano Project/Piano Project.md",
     "TODO.md",
     "Piano Project/piano todo.md",
     "Magic mirror/ToDo.md",
-    "Piano Project/Piano Project.md",
-    "Untitled.md",
     "games.md",
     "Cooking/Cook Prep.md",
     "school/CSE 468/4-2 network mapping and port scanning.md",

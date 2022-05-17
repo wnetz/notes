@@ -9,7 +9,7 @@ material ui || tailwind
 React query
 cypress.io (testing)
 wsl
-Python || Node.js (backend)
+#python  || Node.js (backend)
 MongoDB || my SQL
 web security
 Github action (ci/cd)
