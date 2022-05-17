@@ -111,3 +111,9 @@ except exception as err:
  	code
 except:
  	code
+# #class
+class name:
+	def __init__ (self,parameters): # initialize class
+## #inheritance
+import parant
+class child(parent)
