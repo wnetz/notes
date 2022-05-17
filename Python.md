@@ -1,8 +1,12 @@
 #python 
-# #print_statements
-
+# #IO
+## #print_statements
 print()
+## #input 
+var = input("prompt")
 
+# #importing 
+from x import * imports all of x package
 # #variables
 variables are loosely typed meaning they van hold any primitive value
 ## deceleration
@@ -33,10 +37,64 @@ pow(num,pow) returns num ^ pow
 max(num1, num2) returns max of num1 and num2
 min(num1, rum 2) returns min ...
 round(num, digit) retruns num rounded to digit places
+## #boolean
+var = True
+var = False
+"or" or's two booleans
+"and" and's two booleans
+"not" flips a boolean
 
-## #importing 
-### #syntax 
-from x import * imports all of x package
+## list
+var = [x,y,z]
+lists can contain multiple variable types
+var[x] returns element x
+var[x:] returns elements x tothe end of the list
+var[x:y] returns elements x to y-1
+var[:y] returns elements 0 to y-1
 
-## #input 
-var = input("prompt")
+## tuple
+var = (x,y,z)
+tuples are immutable
+
+## #dictionary
+dict = {
+	key: value,
+	key2: value
+}
+dict[key] returns value
+dict.get(val,default) returns value or default if key does not exist
+# function
+def name(params):
+code within functions must be indented
+functions that do not have a return statement in them return "None"
+
+
+# #control_statements
+## #if statements
+if boolean_condition:
+ 	code
+elif boolean_condition:
+	code
+else:
+	code
+if x in collection:
+	code
+code to be run in if or else must be indented
+## #while loop
+while condition:
+	code
+## #for loop
+iterate through a collection
+for var in string:
+	code
+
+# #comments
+"#" are used for single line comment
+" ''' " are used for block comments
+# #exception_handling
+try:
+	code
+except exception as err:
+ 	code
+except:
+ 	code
