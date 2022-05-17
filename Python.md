@@ -4,9 +4,22 @@
 print()
 ## #input 
 var = input("prompt")
-
+## #files
+var =  file, mode)
+| mode  | effect          |
+| ----- | --------------- |
+| "r"   | read            |
+| "w"   | write           |
+| "a"   | append          |
+| "r+"" | reand and write |
+### useful functions
+readline() returns a line
+readlines() returns all lines in a file in a list
+close() closes file
+write(string)
 # #importing 
 from x import * imports all of x package
+import file
 # #variables
 variables are loosely typed meaning they van hold any primitive value
 ## deceleration
