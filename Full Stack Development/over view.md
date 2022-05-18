@@ -1,6 +1,6 @@
 HTML 
 CSS
-JavaScript
+#JavaScript
 chrome dev tools
 npm || yarn
 JavaScript framework
